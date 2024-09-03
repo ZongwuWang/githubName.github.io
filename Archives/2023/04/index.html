@@ -546,6 +546,12 @@
             </div>
           
           <li class="post-item" data-aos="fade-left">
+            <span class="post-date">04-14</span>
+            <a class="post-title" href="/2023/04/14/shen-ru-liao-jie-pcie-ta-ju-ti-you-shi-me-yong/">深入了解PCIe，它具体有什么用？</a>
+          </li>
+        
+          
+          <li class="post-item" data-aos="fade-left">
             <span class="post-date">04-13</span>
             <a class="post-title" href="/2023/04/13/shi-yong-intel-pin-tool-jin-xing-yuan-zi-zhi-ling-tong-ji/">使用intel pin tool进行原子指令统计</a>
           </li>
@@ -898,5 +904,20 @@
     
     <script src="/js/app.js"></script>
 
-  </body>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
 </html>

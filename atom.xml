@@ -6,7 +6,7 @@
   <link href="https://zongwuwang.github.io/atom.xml" rel="self"/>
   
   <link href="https://zongwuwang.github.io/"/>
-  <updated>2023-04-13T05:42:08.089Z</updated>
+  <updated>2024-09-03T05:32:50.366Z</updated>
   <id>https://zongwuwang.github.io/</id>
   
   <author>
@@ -15,6 +15,217 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pdb cheatsheet</title>
+    <link href="https://zongwuwang.github.io/2024/09/03/pdb-cheatsheet/"/>
+    <id>https://zongwuwang.github.io/2024/09/03/pdb-cheatsheet/</id>
+    <published>2024-09-03T05:01:44.000Z</published>
+    <updated>2024-09-03T05:32:50.366Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Intel Performance Monitoring</title>
+    <link href="https://zongwuwang.github.io/2023/08/08/intel-performance-monitoring/"/>
+    <id>https://zongwuwang.github.io/2023/08/08/intel-performance-monitoring/</id>
+    <published>2023-08-08T09:05:39.000Z</published>
+    <updated>2023-08-08T12:32:39.193Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="挖坑待填" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/"/>
+    
+    <category term="计算机体系架构" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/"/>
+    
+    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="CPU性能分析" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/"/>
+    
+    <category term="算法" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="并行计算" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/"/>
+    
+    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
+    
+    <category term="Benchmark" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/"/>
+    
+    <category term="PaperReview" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/"/>
+    
+    <category term="gem5" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/"/>
+    
+    <category term="编译器" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/%E7%BC%96%E8%AF%91%E5%99%A8/"/>
+    
+    <category term="IC设计" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/%E7%BC%96%E8%AF%91%E5%99%A8/IC%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="hexo博客" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/%E7%BC%96%E8%AF%91%E5%99%A8/IC%E8%AE%BE%E8%AE%A1/hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="操作系统" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/%E7%BC%96%E8%AF%91%E5%99%A8/IC%E8%AE%BE%E8%AE%A1/hexo%E5%8D%9A%E5%AE%A2/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="计算机硬件" scheme="https://zongwuwang.github.io/categories/%E6%8C%96%E5%9D%91%E5%BE%85%E5%A1%AB/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/%E7%AE%97%E6%B3%95/%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/Benchmark/PaperReview/gem5/%E7%BC%96%E8%AF%91%E5%99%A8/IC%E8%AE%BE%E8%AE%A1/hexo%E5%8D%9A%E5%AE%A2/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tools to Measure Software Energy Consumption from your Computer</title>
+    <link href="https://zongwuwang.github.io/2023/06/28/tools-to-measure-software-energy-consumption-from-your-computer/"/>
+    <id>https://zongwuwang.github.io/2023/06/28/tools-to-measure-software-energy-consumption-from-your-computer/</id>
+    <published>2023-06-28T12:23:46.000Z</published>
+    <updated>2023-06-28T12:36:58.982Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="CPU性能分析" scheme="https://zongwuwang.github.io/categories/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="Energy Consumption" scheme="https://zongwuwang.github.io/tags/Energy-Consumption/"/>
+    
+    <category term="Energy Profiler" scheme="https://zongwuwang.github.io/tags/Energy-Profiler/"/>
+    
+    <category term="Energy Efficiency" scheme="https://zongwuwang.github.io/tags/Energy-Efficiency/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python 高精度计时</title>
+    <link href="https://zongwuwang.github.io/2023/06/28/python-gao-jing-du-ji-shi/"/>
+    <id>https://zongwuwang.github.io/2023/06/28/python-gao-jing-du-ji-shi/</id>
+    <published>2023-06-28T12:20:30.000Z</published>
+    <updated>2023-06-28T12:23:11.814Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="计时" scheme="https://zongwuwang.github.io/tags/%E8%AE%A1%E6%97%B6/"/>
+    
+    <category term="python" scheme="https://zongwuwang.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pytorch 正确的测试时间的代码 torch.cuda.synchronize()</title>
+    <link href="https://zongwuwang.github.io/2023/06/28/pytorch-zheng-que-de-ce-shi-shi-jian-de-dai-ma-torch-cuda-synchronize/"/>
+    <id>https://zongwuwang.github.io/2023/06/28/pytorch-zheng-que-de-ce-shi-shi-jian-de-dai-ma-torch-cuda-synchronize/</id>
+    <published>2023-06-28T12:17:39.000Z</published>
+    <updated>2023-06-28T12:20:14.885Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="CPU性能分析" scheme="https://zongwuwang.github.io/categories/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="计时" scheme="https://zongwuwang.github.io/tags/%E8%AE%A1%E6%97%B6/"/>
+    
+    <category term="python" scheme="https://zongwuwang.github.io/tags/python/"/>
+    
+    <category term="pytorch" scheme="https://zongwuwang.github.io/tags/pytorch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pytorch Profiler</title>
+    <link href="https://zongwuwang.github.io/2023/06/26/pytorch-profiler/"/>
+    <id>https://zongwuwang.github.io/2023/06/26/pytorch-profiler/</id>
+    <published>2023-06-26T05:07:37.000Z</published>
+    <updated>2023-06-26T05:09:32.253Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="CPU性能分析" scheme="https://zongwuwang.github.io/categories/CPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="Pytorch" scheme="https://zongwuwang.github.io/tags/Pytorch/"/>
+    
+    <category term="Profiler" scheme="https://zongwuwang.github.io/tags/Profiler/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VSCode Remote环境变量加载</title>
+    <link href="https://zongwuwang.github.io/2023/05/11/vscode-remote-huan-jing-bian-liang-jia-zai/"/>
+    <id>https://zongwuwang.github.io/2023/05/11/vscode-remote-huan-jing-bian-liang-jia-zai/</id>
+    <published>2023-05-11T02:58:19.000Z</published>
+    <updated>2023-05-11T03:00:06.549Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
+    
+    
+    <category term="VSCode" scheme="https://zongwuwang.github.io/tags/VSCode/"/>
+    
+    <category term="环境变量" scheme="https://zongwuwang.github.io/tags/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++并发编程（C++11到C++17）</title>
+    <link href="https://zongwuwang.github.io/2023/05/03/c-bing-fa-bian-cheng-c-11-dao-c-17/"/>
+    <id>https://zongwuwang.github.io/2023/05/03/c-bing-fa-bian-cheng-c-11-dao-c-17/</id>
+    <published>2023-05-03T12:18:16.000Z</published>
+    <updated>2023-05-03T14:24:26.107Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
+    
+    
+    <category term="并发" scheme="https://zongwuwang.github.io/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+    <category term="c++" scheme="https://zongwuwang.github.io/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入了解PCIe，它具体有什么用？</title>
+    <link href="https://zongwuwang.github.io/2023/04/14/shen-ru-liao-jie-pcie-ta-ju-ti-you-shi-me-yong/"/>
+    <id>https://zongwuwang.github.io/2023/04/14/shen-ru-liao-jie-pcie-ta-ju-ti-you-shi-me-yong/</id>
+    <published>2023-04-14T01:14:59.000Z</published>
+    <updated>2023-04-14T01:44:32.684Z</updated>
+    
+    
+    <summary type="html">Welcome to my blog, enter password to read.</summary>
+    
+    
+    
+    <category term="计算机硬件" scheme="https://zongwuwang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6/"/>
+    
+    
+    <category term="PCIe" scheme="https://zongwuwang.github.io/tags/PCIe/"/>
+    
+  </entry>
   
   <entry>
     <title>使用intel pin tool进行原子指令统计</title>
@@ -42,7 +253,7 @@
     <link href="https://zongwuwang.github.io/2023/04/09/shen-du-xue-xi-tui-jian-xi-tong-shi-zhan-bi-ji/"/>
     <id>https://zongwuwang.github.io/2023/04/09/shen-du-xue-xi-tui-jian-xi-tong-shi-zhan-bi-ji/</id>
     <published>2023-04-09T14:34:32.000Z</published>
-    <updated>2023-04-09T14:57:53.973Z</updated>
+    <updated>2023-04-14T01:45:25.752Z</updated>
     
     
     <summary type="html">Welcome to my blog, enter password to read.</summary>
@@ -103,7 +314,7 @@
     <link href="https://zongwuwang.github.io/2023/04/06/ddr-xie-yi/"/>
     <id>https://zongwuwang.github.io/2023/04/06/ddr-xie-yi/</id>
     <published>2023-04-06T13:30:56.000Z</published>
-    <updated>2023-04-07T05:38:41.832Z</updated>
+    <updated>2023-04-14T01:45:14.497Z</updated>
     
     
     <summary type="html">Welcome to my blog, enter password to read.</summary>
@@ -166,7 +377,7 @@
     <link href="https://zongwuwang.github.io/2023/03/10/pintools-shi-xian-insmix-fen-xi/"/>
     <id>https://zongwuwang.github.io/2023/03/10/pintools-shi-xian-insmix-fen-xi/</id>
     <published>2023-03-10T03:55:21.000Z</published>
-    <updated>2023-03-10T05:42:47.605Z</updated>
+    <updated>2023-04-14T01:46:01.045Z</updated>
     
     
     <summary type="html">Welcome to my blog, enter password to read.</summary>
@@ -252,211 +463,6 @@
     
     
     <category term="Serialization" scheme="https://zongwuwang.github.io/tags/Serialization/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Database Transaction Isolation Level (4 Part Series)</title>
-    <link href="https://zongwuwang.github.io/2023/02/04/database-transaction-isolation-level-4-part-series/"/>
-    <id>https://zongwuwang.github.io/2023/02/04/database-transaction-isolation-level-4-part-series/</id>
-    <published>2023-02-04T11:47:57.000Z</published>
-    <updated>2023-02-04T13:03:07.142Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="计算机体系架构" scheme="https://zongwuwang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/"/>
-    
-    
-    <category term="Database" scheme="https://zongwuwang.github.io/tags/Database/"/>
-    
-    <category term="数据库" scheme="https://zongwuwang.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>浅谈Intel QPI的MESIF协议和Home，Source Snoop</title>
-    <link href="https://zongwuwang.github.io/2023/02/04/qian-tan-intel-qpi-de-mesif-xie-yi-he-home-source-snoop/"/>
-    <id>https://zongwuwang.github.io/2023/02/04/qian-tan-intel-qpi-de-mesif-xie-yi-he-home-source-snoop/</id>
-    <published>2023-02-04T03:18:09.000Z</published>
-    <updated>2023-02-04T03:29:58.497Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="计算机体系架构" scheme="https://zongwuwang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/"/>
-    
-    
-    <category term="Snoop" scheme="https://zongwuwang.github.io/tags/Snoop/"/>
-    
-    <category term="QPI" scheme="https://zongwuwang.github.io/tags/QPI/"/>
-    
-    <category term="MESIF" scheme="https://zongwuwang.github.io/tags/MESIF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java的对象模型——Oop-Klass模型（二）</title>
-    <link href="https://zongwuwang.github.io/2023/02/03/java-de-dui-xiang-mo-xing-oop-klass-mo-xing-er/"/>
-    <id>https://zongwuwang.github.io/2023/02/03/java-de-dui-xiang-mo-xing-oop-klass-mo-xing-er/</id>
-    <published>2023-02-03T06:15:06.000Z</published>
-    <updated>2023-02-03T06:28:53.846Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
-    
-    
-    <category term="JVM" scheme="https://zongwuwang.github.io/tags/JVM/"/>
-    
-    <category term="Oop" scheme="https://zongwuwang.github.io/tags/Oop/"/>
-    
-    <category term="Klass" scheme="https://zongwuwang.github.io/tags/Klass/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java的对象模型——Oop-Klass模型（一）</title>
-    <link href="https://zongwuwang.github.io/2023/02/03/java-de-dui-xiang-mo-xing-oop-klass-mo-xing-yi/"/>
-    <id>https://zongwuwang.github.io/2023/02/03/java-de-dui-xiang-mo-xing-oop-klass-mo-xing-yi/</id>
-    <published>2023-02-03T06:01:11.000Z</published>
-    <updated>2023-02-03T06:14:54.933Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="编程开发" scheme="https://zongwuwang.github.io/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/"/>
-    
-    
-    <category term="JVM" scheme="https://zongwuwang.github.io/tags/JVM/"/>
-    
-    <category term="Oop" scheme="https://zongwuwang.github.io/tags/Oop/"/>
-    
-    <category term="Klass" scheme="https://zongwuwang.github.io/tags/Klass/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何在 shell 中实现并行执行</title>
-    <link href="https://zongwuwang.github.io/2023/01/30/ru-he-zai-shell-zhong-shi-xian-bing-xing-zhi-xing/"/>
-    <id>https://zongwuwang.github.io/2023/01/30/ru-he-zai-shell-zhong-shi-xian-bing-xing-zhi-xing/</id>
-    <published>2023-01-30T06:29:25.000Z</published>
-    <updated>2023-01-30T06:45:47.719Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天，有个同事问我，他的 shell</summary>
-        
-      
-    
-    
-    
-    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="并行" scheme="https://zongwuwang.github.io/tags/%E5%B9%B6%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在Linux下如何限制命令执行的时间？</title>
-    <link href="https://zongwuwang.github.io/2023/01/30/zai-linux-xia-ru-he-xian-zhi-ming-ling-zhi-xing-de-shi-jian/"/>
-    <id>https://zongwuwang.github.io/2023/01/30/zai-linux-xia-ru-he-xian-zhi-ming-ling-zhi-xing-de-shi-jian/</id>
-    <published>2023-01-30T06:08:47.000Z</published>
-    <updated>2023-01-30T06:10:48.147Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;在Linux下如何限制命令执行的时间？两种解决方法，如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="命令行" scheme="https://zongwuwang.github.io/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>docker容器中添加perf的支持</title>
-    <link href="https://zongwuwang.github.io/2023/01/06/docker-rong-qi-zhong-tian-jia-perf-de-zhi-chi/"/>
-    <id>https://zongwuwang.github.io/2023/01/06/docker-rong-qi-zhong-tian-jia-perf-de-zhi-chi/</id>
-    <published>2023-01-06T08:04:59.000Z</published>
-    <updated>2023-01-06T08:06:58.023Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="perf" scheme="https://zongwuwang.github.io/tags/perf/"/>
-    
-    <category term="docker" scheme="https://zongwuwang.github.io/tags/docker/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vim配置未知后缀高亮格式</title>
-    <link href="https://zongwuwang.github.io/2023/01/06/vim-pei-zhi-wei-zhi-hou-zhui-gao-liang-ge-shi/"/>
-    <id>https://zongwuwang.github.io/2023/01/06/vim-pei-zhi-wei-zhi-hou-zhui-gao-liang-ge-shi/</id>
-    <published>2023-01-06T08:02:52.000Z</published>
-    <updated>2023-01-06T08:04:14.691Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="系统环境" scheme="https://zongwuwang.github.io/categories/%E7%B3%BB%E7%BB%9F%E7%8E%AF%E5%A2%83/"/>
-    
-    
-    <category term="vim" scheme="https://zongwuwang.github.io/tags/vim/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DRAMsim3代码解读</title>
-    <link href="https://zongwuwang.github.io/2023/01/06/dramsim3-dai-ma-jie-du/"/>
-    <id>https://zongwuwang.github.io/2023/01/06/dramsim3-dai-ma-jie-du/</id>
-    <published>2023-01-06T07:17:15.000Z</published>
-    <updated>2023-01-06T16:19:21.722Z</updated>
-    
-    
-    <summary type="html">Welcome to my blog, enter password to read.</summary>
-    
-    
-    
-    <category term="计算机体系架构" scheme="https://zongwuwang.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%93%E7%B3%BB%E6%9E%B6%E6%9E%84/"/>
-    
-    
-    <category term="Simulator" scheme="https://zongwuwang.github.io/tags/Simulator/"/>
-    
-    <category term="DRAM" scheme="https://zongwuwang.github.io/tags/DRAM/"/>
-    
-    <category term="DRAMsim3" scheme="https://zongwuwang.github.io/tags/DRAMsim3/"/>
     
   </entry>
   
